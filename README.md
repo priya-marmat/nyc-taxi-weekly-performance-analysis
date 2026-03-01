@@ -67,22 +67,9 @@ This approach reduced Power BI model complexity and improved performance.
 
 ---
 
-## 📈 Dashboard Features
+## 📊 Dashboard Preview
 
-The Power BI dashboard includes:
-
-- Fiscal Week Slicer (1–52)  
-- KPI Matrix:
-  - Total Trips  
-  - Fare per Trip  
-  - Distance per Trip  
-  - Week-over-Week (WoW) %  
-- Dynamic Executive Summary Text  
-- Pickup & Dropoff Location Maps  
-- Day-of-Week Distribution  
-- Hourly Demand Distribution  
-
-All visuals dynamically update based on selected week.
+![Dashboard](https://github.com/priya-marmat/nyc-taxi-weekly-performance-analysis/blob/main/NYC_taxi_trip_dashboard.png?raw=true)
 
 ---
 
