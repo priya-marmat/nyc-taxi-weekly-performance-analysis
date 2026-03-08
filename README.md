@@ -72,6 +72,11 @@ This approach reduced Power BI model complexity and improved performance.
 ![Dashboard](https://github.com/priya-marmat/nyc-taxi-weekly-performance-analysis/blob/main/NYC_taxi_trip_dashboard.png?raw=true)
 
 ---
+## 🎥 Dashboard Walkthrough
+
+Watch the full dashboard walkthrough video:
+
+▶ [Click here to watch the dashboard walkthrough](https://github.com/priya-marmat/nyc-taxi-weekly-performance-analysis/blob/main/walkthrough_taxi_trip.mp4)
 
 ## 🔍 Key Insights
 
